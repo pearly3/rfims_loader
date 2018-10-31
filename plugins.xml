@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="/plugins/plugins.xsl" ?>
+<plugins>
+  <pyqgis_plugin name="RFIMS Loader" version="1.0">
+    <description><![CDATA[Loads RS & BS kml files]]></description>
+    <about><![CDATA[<p>This plugin reads in an RS and a BS kml file as two separate vector layers, sets up the RS layer for editing, and displays the BS layer based upon user choice.</p>]]></about>
+    <version>1.0</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <qgis_maximum_version>3.99.0</qgis_maximum_version>
+    <homepage>https://gitlab.lgsdirect.com/pearly/qgis_plugin_repo</homepage>
+    <file_name>rfimsloader.zip</file_name>
+    <author_name><![CDATA[Patrick Early]]></author_name>
+    <download_url>https://gitlab.lgsdirect.com/pearly/qgis_plugin_repo/raw/master/RFIMS_Loader/rfimsloader.zip</download_url>
+    <uploaded_by><![CDATA[LGS Innovations]]></uploaded_by>
+    <create_date/>
+    <update_date/>
+    <experimental>True</experimental>
+    <deprecated>False</deprecated>
+    <tracker><![CDATA[https://gitlab.lgsdirect.com/pearly/qgis_plugin_repo/issues]]></tracker>
+    <repository><![CDATA[https://gitlab.lgsdirect.com/pearly/qgis_plugin_repo/tree/master/RFIMS_Loader]]></repository>
+    <changelog><![CDATA[]]></changelog>
+    <tags><![CDATA[]]></tags>
+    <downloads>0</downloads>
+    <average_vote>0.0</average_vote>
+    <rating_votes>0</rating_votes>
+  </pyqgis_plugin>
+  </plugins>
